@@ -1,6 +1,9 @@
 # Enterprise Campus Network Simulation
 
-![Network Topology](screenshots/topology.png)
+!Network Topology
+
+<img width="1650" height="672" alt="enterprise-campus-topology" src="https://github.com/user-attachments/assets/88c5010d-ac82-44b9-b3b4-37e01fe25d38" />
+
 
 A Cisco Packet Tracer project that demonstrates the design and implementation of a secure enterprise campus network using a hierarchical architecture. The network includes VLAN segmentation, Layer 3 switching, DHCP, DNS, web services, OSPF routing, and Cisco ASA firewall security.
 
@@ -89,29 +92,35 @@ This project simulates a small enterprise network built using Cisco networking t
 
 ---
 
-## Screenshots
-
-### Network Topology
-
-![Topology](screenshots/topology.png)
 
 ---
 
 ### VLAN Configuration
 
-![VLAN Configuration](screenshots/vlan-design.png)
+!VLAN Configuration
+
+<img width="722" height="277" alt="SW1-HR-vlans " src="https://github.com/user-attachments/assets/dd40bc6e-5c50-4bae-b0f5-79c59c8abd25" />
+
 
 ---
 
 ### Inter-VLAN Connectivity Test
 
-![Ping Test](screenshots/ping-test.png)
+!Ping Test
+
+<img width="612" height="327" alt="Ping test" src="https://github.com/user-attachments/assets/6057f083-1e69-4ac1-9f45-5e803d41ed9c" />
+
+
+
 
 ---
 
 ### Web Server Verification
 
-![Web Server](screenshots/web-server.png)
+!Web Server
+
+<img width="1737" height="322" alt="DNS" src="https://github.com/user-attachments/assets/8b75b765-a1bb-4dff-ada6-edb37c0bf863" />
+
 
 ---
 
